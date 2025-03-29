@@ -29,5 +29,5 @@ initial-scale=1.0">
             <li><a "#">Menyanyi</a></li>
         </ul>
 <h2>Portofolio Saya</h2>
-<img src="https://images.app.goo.gl/jmks7UJmZweHp9nA7" alt="Youtuber">
+<img src="https://images.app.goo.gl/jmks7UJmZweHp9nA7.jpg" alt="Foto">
 </section>
