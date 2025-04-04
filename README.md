@@ -79,3 +79,65 @@ initial-scale=1.0">
 </body>
 </html>
 
+## LATIHAN 3
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Things</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Favorite Things</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#movie">Drama Favorit</a></li>
+            <li><a href="#music">Musik Favorit</a></li>
+            <li><a href="#group">Group Favorit</a></li>
+        </ul>
+    </nav>
+    
+    <section id="movie">
+        <h2>Drama Favorit: Hotel Del Luna</h2>
+        <img src="hotel del luna.jpg" alt="Poster Hotel Del Luna">
+        <p>Hotel Del Luna adalah sebuah drama korea yang berkisah tentang sebuah hotel bertempat di seoul namun yang menempati hotel tersebut bukanlah manusia melainkan hantu</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1IjMTR2DxlA?si=F9dAF-zt9sXibKbf" frameborder="0" allowfullscreen></iframe>
+        <ul>
+            <li>Cerita yang kompleks dan menarik.</li>
+            <li>Akting pemain yang luar biasa.</li>
+            <li>Aktris hebat seperti Lee Ji Eun.</li>
+        </ul>
+    </section>
+    
+    <section id="music">
+        <h2>Musik Favorit: Blessing</h2>
+        <img src="TokyoNoirFamilia.jpg" alt="TokyoNoirFamilia">
+        <p>Lagu ini mengajarkan kita agar tidak mudah gampang mendengarkan omongan lain</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/M-_gZOe_YIA?si=hPHLvE_1mUG8sp2R" frameborder="0" allowfullscreen></iframe>
+        <ul>
+            <li>Komposisi musik yang unik dan inovatif.</li>
+            <li>Lirik yang penuh makna.</li>
+            <li>Suara anggota TNF yang saling melengkapi.</li>
+        </ul>
+    </section>
+    
+    <section id="group">
+        <h2>Grup Virtual Favorit: SOL.4CE</h2>
+        <img src="sol4ce.jpg" alt="SOL.4CE">
+        <p>Sebuah grup virtual yang menarik perhatian karna berbagai interaksi saat mengobrol,bermain game. Setiap anggota memiliki ciri dan gaya nya masing-masing</p>
+        <ul>
+            <li>Chemistry yang kuat antar member.</li>
+            <li>Kepribadian yang berbeda-beda.</li>
+            <li>Kemampuan di bidang musik.</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 My Favorite Things</p>
+    </footer>
+</body>
+</html>
