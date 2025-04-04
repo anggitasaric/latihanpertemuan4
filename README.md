@@ -1,3 +1,4 @@
+#LATIHAN 1
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -31,3 +32,5 @@ initial-scale=1.0">
 <h2>Portofolio Saya</h2>
 <img src="https://images.app.goo.gl/jmks7UJmZweHp9nA7.jpg" alt="Foto">
 </section>
+
+#LATIHAN 2
