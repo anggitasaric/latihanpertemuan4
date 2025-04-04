@@ -1,4 +1,4 @@
-#LATIHAN 1
+## LATIHAN 1
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -33,4 +33,49 @@ initial-scale=1.0">
 <img src="https://images.app.goo.gl/jmks7UJmZweHp9nA7.jpg" alt="Foto">
 </section>
 
-#LATIHAN 2
+## LATIHAN 2
+
+<h2> Jadwal Kuliah</h2>
+    <table>
+        <tr>
+            <th>Shift/Hari</th>
+            <th>Senin</th>
+            <th>Selasa</th>
+            <th>Rabu</th>
+            <th>Kamis</th>
+            <th>Jumat</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Sistem Basis Data</td>
+            <td>Brand and Social Media Management</td>
+            <td>Pemrograman Web Dasar</td>
+            <td></td>
+            <td>Statistika Bisnis</td>
+        </tr>
+        <tr>
+            <td colspan="6">kosong/break</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+            <td></td>
+            <td>Microeconomics</td>
+            <td>Prinsip-prinsip Akuntansi</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6">kosong/break</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td></td>
+            <td></td>
+            <td>Hukum Bisnis</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
+
